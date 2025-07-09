@@ -1,6 +1,6 @@
-# ProductApp – Android Applicatio
+# ProductApp – Android Application
 
-ProductApp is a modern Android application designed to showcase a list of products retrieved from a remote API. It allows users to view, filter, and favorite items through an intuitive and responsive UI.
+ProductApp is a personal project developed to strengthen my skills in Android application development using Kotlin, Jetpack Compose, and the MVVM architectural pattern. The app demonstrates the use of modern Android technologies to fetch and display product data from the public API provided by Check24, providing users with features such as filtering, favoriting, and detailed product views through a clean and responsive UI.
 
 ##  Application Features
 
@@ -71,15 +71,7 @@ com.example.productapp/
   https://app.check24.de/products-test.json
   ```
 - **Coil** – Lightweight image loading for Jetpack Compose
-- **Kotlin Coroutines + StateFlow** – Asynchronous state management
-
----
-
-## Core Functionality
-
-- **Reactive UI:** All UI state is driven by `StateFlow` and `MutableStateFlow` objects in the `ProductViewModel`.
-- **Favorites:** Users can favorite/unfavorite products. Favorites are managed locally and shown in a dedicated tab.
-- **Error Handling:** Simulated error mechanism to test error states, with retry logic in place.
+- **Kotlin Coroutines** – Asynchronous state management
 
 ---
 
