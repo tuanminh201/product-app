@@ -22,7 +22,7 @@ Detailed view of a selected product:
 <img src="app/public/assets/screenshots/ProductDetails.png" width="250"/>
 
 ### 3. Favorites Tab
-Displays products marked as favorites.
+Displays products marked as favorites. Favorited items are visually highlighted with a different background color, both in the Favourites tab and directly within the Overview screen for easy recognition.
 
 <img src="app/public/assets/screenshots/Favourites.png" width="250"/>
 
