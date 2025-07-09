@@ -11,7 +11,7 @@ The main screen displays a list of products with the following features:
 - Pull-to-refresh functionality.
 - Dynamic product list using Jetpack Compose's `LazyColumn`.
 
-![Overview](public/assets/screenshots/ProductOverview.png)
+![Overview]<img src="app/public/assets/screenshots/ProductOverview.png" width="250"/>
 
 ### 2. Product Details Screen
 Detailed view of a selected product:
@@ -19,17 +19,17 @@ Detailed view of a selected product:
 - Short and long descriptions.
 - Toggle button to add/remove from favorites.
 
-![Details](public/assets/screenshots/ProductDetails.png)
+![Details]<img src="app/public/assets/screenshots/ProductDetails.png" width="250"/>
 
 ### 3. Favorites Tab
 Displays products marked as favorites.
 
-![Favorites](public/assets/screenshots/Favourites.png)
+![Favorites]<img src="app/public/assets/screenshots/Favourites.png" width="250"/>
 
 ### 4. Available Tab
 Filters the list to show only products that are available.
 
-![Available](public/assets/screenshots/Available.png)
+![Available]<img src="app/public/assets/screenshots/Available.png" width="250"/>
 
 ---
 
