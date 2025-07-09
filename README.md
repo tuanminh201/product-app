@@ -30,6 +30,7 @@ Displays products marked as favorites.
 Filters the list to show only products that are available.
 
 <img src="app/public/assets/screenshots/Available.png" width="250"/>
+
 ### 5. Error Screen
 When the app encounters a failure, an error screen is displayed with a clear message and a Reset button, allowing users to reload the product list without restarting the app.
 To simulate real-world scenarios, an artificial error is triggered every 4th time the user refreshes the product list (i.e., after 3 successful refreshes). 

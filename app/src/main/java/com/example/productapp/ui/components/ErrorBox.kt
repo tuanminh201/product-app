@@ -42,7 +42,7 @@ fun ErrorBox(onRetry: () -> Unit) {
         )
         Spacer(modifier = Modifier.height(12.dp))
         Text(
-            text = "Problem",
+            text = "Oops, Something's Wrong",
             style = MaterialTheme.typography.headlineSmall,
             fontWeight = FontWeight.Bold
         )
